@@ -1,5 +1,12 @@
 # Monorepo with examples
+## how to start
+```
+nvm use
+yarn run clean:update
+yarn run start
+```
 
+## Projects
 | Image  | Name  | Link  | Description  |
 |---|---|---|---|
 ![react form](docs/assets/pokedex-rest.png) | React Typescript Pokedex Rest | [http://localhost:3001/pokedex](http://localhost:3001/pokedex) | [Readme](./packages/pokedex/README.md) |
